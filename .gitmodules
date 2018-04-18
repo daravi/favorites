@@ -1,0 +1,3 @@
+[submodule "homebrew-px4"]
+	path = homebrew-px4
+	url = https://github.com/PX4/homebrew-px4
